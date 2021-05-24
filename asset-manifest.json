@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vasifwill/AdviceApiReactApp/static/css/main.ebc5583a.chunk.css",
+    "main.js": "/vasifwill/AdviceApiReactApp/static/js/main.16ed994d.chunk.js",
+    "main.js.map": "/vasifwill/AdviceApiReactApp/static/js/main.16ed994d.chunk.js.map",
+    "runtime-main.js": "/vasifwill/AdviceApiReactApp/static/js/runtime-main.e4245f0f.js",
+    "runtime-main.js.map": "/vasifwill/AdviceApiReactApp/static/js/runtime-main.e4245f0f.js.map",
+    "static/js/2.45fd3240.chunk.js": "/vasifwill/AdviceApiReactApp/static/js/2.45fd3240.chunk.js",
+    "static/js/2.45fd3240.chunk.js.map": "/vasifwill/AdviceApiReactApp/static/js/2.45fd3240.chunk.js.map",
+    "index.html": "/vasifwill/AdviceApiReactApp/index.html",
+    "static/css/main.ebc5583a.chunk.css.map": "/vasifwill/AdviceApiReactApp/static/css/main.ebc5583a.chunk.css.map",
+    "static/js/2.45fd3240.chunk.js.LICENSE.txt": "/vasifwill/AdviceApiReactApp/static/js/2.45fd3240.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/vasifwill/AdviceApiReactApp/static/media/mount.b0b387fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4245f0f.js",
+    "static/js/2.45fd3240.chunk.js",
+    "static/css/main.ebc5583a.chunk.css",
+    "static/js/main.16ed994d.chunk.js"
+  ]
+}
